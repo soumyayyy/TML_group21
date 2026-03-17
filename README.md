@@ -7,7 +7,7 @@
 <p style="color:#005BAC; font-size:18px;">
 A four-member based group project executed and planned by us, and presented to the respected officials during our Summer Internship in 2025.
   
-  FACTORYOPS DASHBOARD™
+  <h1 style="color:#0000FF;"> FACTORYOPS DASHBOARD™ </h1>
   
  <h1> Copyright @ Soumya Suman Jun-Jul 2025 </h1> 
 </p>
