@@ -9,7 +9,7 @@ A four-member based group project executed and planned by us, and presented to t
   
   <h1 style="color:#0000FF;"> FACTORYOPS DASHBOARD™ </h1>
   
- <h1> Copyright @ Soumya Suman Jun-Jul 2025 </h1> 
+ <h3> Copyright @ Soumya Suman Jun-Jul 2025 </h3> 
 </p>
 
 </div>
