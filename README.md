@@ -8,7 +8,8 @@
 A four member based group project executed and planned by me, and presented to the respected officials during our Summer Internship in 2025.
   
   FACTORYOPS DASHBOARD
-  Copyright @ Soumya Suman Jun-Jul 2025
+  
+ <h1> Copyright @ Soumya Suman Jun-Jul 2025 </h1> 
 </p>
 
 </div>
