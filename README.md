@@ -5,7 +5,7 @@
 <h1 style="color:#005BAC;">Tata Motors </h1>
 
 <p style="color:#005BAC; font-size:18px;">
-A four-member based group project executed and planned by me, and presented to the respected officials during our Summer Internship in 2025.
+A four-member based group project executed and planned by us, and presented to the respected officials during our Summer Internship in 2025.
   
   FACTORYOPS DASHBOARD
   
